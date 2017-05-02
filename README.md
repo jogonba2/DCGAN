@@ -14,4 +14,4 @@ DCGAN implementation (Keras/Python)
 ## Generating Pokemon
 ---
 
-![a](https://i.gyazo.com/97365bc2a28fe2d729d654bb2947bf6e.png)
+![a](https://i.gyazo.com/017248e537c53a50304b7cb8030cce73.png)
